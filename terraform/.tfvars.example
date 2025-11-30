@@ -1,0 +1,8 @@
+aws_region   = "ap-south-1"
+project_name = "strapi-project"
+instance_type = "t3.micro"
+ssh_key_name = "my-aws-keypair-name"
+git_repo     = "https://github.com/vijay-bairwa-devops/strapi-aws-terraform-iac.git"
+db_password  = "ChangeThisToAStrongPassword123!"
+db_username  = "strapi"
+
